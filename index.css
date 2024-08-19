@@ -1,0 +1,30 @@
+#box1{
+    margin-left: 50%;
+    width:200px;
+    height:200px;
+background-color: blue;
+align-self:self-start;
+
+}
+#box2{
+    width: 100px;
+    height: 100px;
+background-color: #ff0037;
+
+}
+#box3{
+    width: 100px;
+    height: 100px;
+background-color: rgb(1, 1, 8);
+
+}
+#box4{
+    width: 100px;
+    height: 100px;
+background-color: #17d837d5;
+
+}
+body{
+background-color: black;
+
+}
