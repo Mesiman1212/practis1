@@ -15,13 +15,37 @@ background-color: #ff0037;
 #box3{
     width: 100px;
     height: 100px;
-background-color: rgb(1, 1, 8);
+background-color: rgb(74, 74, 160);
 
 }
 #box4{
     width: 100px;
     height: 100px;
+background-color: #d2e0d5d5;
+
+}
+#box5{
+    width: 5px;
+    height: 1px;
 background-color: #17d837d5;
+
+}
+#box6{
+    width: 1px;
+    height: 2px;
+background-color: #d81717d5;
+
+}
+#box7{
+    width: 3px;
+    height: 7px;
+background-color: #17d8c8d5;
+
+}
+#box8{
+    width: 4px;
+    height: 3px;
+background-color: #d81d17d5;
 
 }
 body{
